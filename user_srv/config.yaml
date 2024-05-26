@@ -1,0 +1,12 @@
+name: user_srv
+
+mysql:
+  host: 127.0.0.1
+  port: 3307
+  user: root
+  password: 123456
+  db: mxshop_user_srv
+
+consul:
+  host: 127.0.0.1
+  port: 8050
