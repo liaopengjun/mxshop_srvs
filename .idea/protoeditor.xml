@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProtobufLanguageSettings">
-    <option name="thirdPartyConfiguration" value="false" />
-    <option name="includeContentRoots" value="false" />
-    <option name="includeProtoDirectories" value="false" />
-  </component>
-</project>
